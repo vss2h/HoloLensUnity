@@ -1,5 +1,5 @@
 # HoloLensUnity
-AR development using Unity 2.1 and HoloLens.
+AR development using Unity (2.1 and up) and HoloLens.
 
 Imported files:
 MixedRealityToolKit from Microsoft
@@ -12,7 +12,6 @@ Also, the Emulator does not work with Windows Home as we need Hyper-V. If you ha
 
 Softwares: 
 
-Unity 2.1:
-I am using 2.1 because the oldest release of the MRTK is 2.1.1. Having an newer version of Unity will not be compatible and will only crash.
+Unity 2.1 and up
 
-Visual Studio Community 2017
+Visual Studio Community 2015 or 2017
