@@ -13,6 +13,6 @@ public class LookAt : MonoBehaviour {
 	void Update ()
     {
 
-        transform.LookAt(target);	
+        transform.LookAt(target); // has a Game Object continually face another Game Object (target)	
 	}
 }
